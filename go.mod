@@ -1,3 +1,3 @@
-module sso_protos
+module protos
 
 go 1.21
